@@ -9,4 +9,9 @@ users:list=[
     {'name':'Michał','posts':94,'city':'Białystok'},
     {'name':'Żerom','posts':92,'city':'Wrocław'},
     {'name':'Amelia','posts':999,'city':'Kraków'},
+    {'name': 'Karolina', 'posts': 979, 'city': 'Gdańsk'},
+    {'name': 'Julia', 'posts': 123, 'city': 'Zamość'},
+    {'name': 'Ola', 'posts': 9, 'city': 'Kraków'},
+    {'name': 'Patrycja', 'posts': 44, 'city': 'Katowice'},
+    {'name': 'Patrycja', 'posts': 999, 'city': 'Chorzów'},
 ]
